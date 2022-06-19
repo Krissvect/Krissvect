@@ -8,3 +8,6 @@
 Krissvect/Krissvect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Chaucha.cl 
+- name: Chaucha.cl Crypto Wallet Generator Github Action
+  uses: proyecto-chaucha/chaucha-gha-wallet-generator@v1
