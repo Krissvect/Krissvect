@@ -11,3 +11,8 @@ You can click the Preview link to take a look at your changes.
 Chaucha.cl 
 - name: Chaucha.cl Crypto Wallet Generator Github Action
   uses: proyecto-chaucha/chaucha-gha-wallet-generator@v1
+git push -u origin main
+git merge Krissvect-patch-1
+git checkout main
+git pull origin main
+https://github.com/Krissvect/Krissvect.git
